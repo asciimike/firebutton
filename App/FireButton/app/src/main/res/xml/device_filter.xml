@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Arduino Uno R3; Product ID: 0x0043 Vendor ID: 0x2a03 -->
+    <usb-device vendor-id="10755" product-id="67" />
+</resources>
